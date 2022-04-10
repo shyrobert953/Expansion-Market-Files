@@ -1,0 +1,199 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Diesel Footwear",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "Items": [
+    {
+      "ClassName": "Diesel_HikingLow_Omega",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_FireEric",
+        "Diesel_HikingLow_Visa",
+        "Diesel_HikingLow_CauperHed",
+        "Diesel_HikingLow_FireDog2",
+        "Diesel_HikingLow_FireDog"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_MultiWD",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_NFYellow",
+        "Diesel_HikingLow_NFDPurple"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_Brownyz",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_Peddles",
+        "Diesel_HikingLow_DGSkin",
+        "Diesel_HikingLow_TakiCamo",
+        "Diesel_HikingLow_RTBlueCamo",
+        "Diesel_HikingLow_MareBear2"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_Yalson",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_Peyton",
+        "Diesel_HikingLow_MareBear",
+        "Diesel_HikingLow_Cochran",
+        "Diesel_HikingLow_Cochran2",
+        "Diesel_HikingLow_Swirly"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_Racey",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_HelloKitty",
+        "Diesel_HikingLow_TD",
+        "Diesel_HikingLow_ORTCamo",
+        "Diesel_HikingLow_PinkRTCamo",
+        "Diesel_HikingLow_DTec3"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_Camo",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_Camo2",
+        "Diesel_HikingLow_BlkGrey",
+        "Diesel_HikingLow_Mossy",
+        "Diesel_HikingLow_LMossy",
+        "Diesel_HikingLow_LMossy2",
+        "Diesel_HikingLow_BRWCamo"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_Blueice",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_DPRbow",
+        "Diesel_HikingLow_PRbow",
+        "Diesel_HikingLow_YRbow",
+        "Diesel_HikingLow_Snow",
+        "Diesel_HikingLow_BlkCamo"
+      ]
+    },
+    {
+      "ClassName": "Diesel_HikingLow_DskeleSkin",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_HikingLow_DtakiSkin",
+        "Diesel_HikingLow_DviperSkin",
+        "Diesel_HikingLow_BlueiceSkin",
+        "Diesel_HikingLow_SeamossSkin"
+      ]
+    },
+    {
+      "ClassName": "Diesel_Wellies_PinkPoka",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_Wellies_PinkLeaf"
+      ]
+    },
+    {
+      "ClassName": "Diesel_JoggingShoes_BlueGrey",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_JoggingShoes_BlueGrey_W ",
+        "Diesel_JoggingShoes_GreenGrey",
+        "Diesel_JoggingShoes_GreenGrey_W",
+        "Diesel_JoggingShoes_PinkGrey_W",
+        "Diesel_JoggingShoes_PurpleGrey"
+      ]
+    },
+    {
+      "ClassName": "Diesel_MilitaryBoots_PurplePunk",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_MilitaryBoots_GreenPunk",
+        "Diesel_MilitaryBoots_BluePunk",
+        "Diesel_MilitaryBoots_RedPunk2",
+        "Diesel_MilitaryBoots_Toxic"
+      ]
+    },
+    {
+      "ClassName": "Diesel_MedicBoots",
+      "MaxPriceThreshold": 1500,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

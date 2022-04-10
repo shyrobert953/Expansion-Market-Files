@@ -1,0 +1,526 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Clothing",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_GorkaJacket_Omega",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_ORTCamo",
+                "Diesel_GorkaJacket_PinkRTCamo",
+                "Diesel_GorkaJacket_DTec",
+                "Diesel_GorkaJacket_DTec2",
+                "Diesel_GorkaJacket_Lark"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_DskeleSkin",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_DtakiSkin",
+                "Diesel_GorkaJacket_DviperSkin",
+                "Diesel_GorkaJacket_BlueiceSkin",
+                "Diesel_GorkaJacket_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_LMossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_TimberWolff",
+                "Diesel_GorkaJacket_Blue",
+                "Diesel_GorkaJacket_Purple",
+                "Diesel_GorkaJacket_OrGreen",
+                "Diesel_GorkaJacket_DrkGreen"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_Snow",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_Fall",
+                "Diesel_GorkaJacket_NeoGreen",
+                "Diesel_GorkaJacket_NeoBlGr",
+                "Diesel_GorkaJacket_DrkGrey",
+                "Diesel_GorkaJacket_BlkRedCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_BlkCamo",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_BudTech",
+                "Diesel_GorkaJacket_GRTech",
+                "Diesel_GorkaJacket_GTech",
+                "Diesel_GorkaJacket_JTech",
+                "Diesel_GorkaJacket_LarkCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_PCamo",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_PurPatch",
+                "Diesel_GorkaJacket_ScotMil",
+                "Diesel_GorkaJacket_RTCamo",
+                "Diesel_GorkaJacket_KryptecBlue",
+                "Diesel_GorkaJacket_RTBlue"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_PRbow",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_GS2",
+                "Diesel_GorkaJacket_DGSkin",
+                "Diesel_GorkaJacket_TakiCamo",
+                "Diesel_GorkaJacket_RTBlueCamo",
+                "Diesel_GorkaJacket_TD"
+
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaJacket_MultiWD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaJacket_NFYellow",
+                "Diesel_GorkaJacket_NFDPurple",
+                "Diesel_GorkaJacket_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Jacket_FireEric",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_FireJacket_FireEric",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_FireJacket_Realtree"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Jacket_Zed",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Jacket_HelloKitty"
+            ]
+        },
+        {
+            "ClassName": "Diesel_M65Jacket_FireDog",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_M65Jacket_MareBear",
+                "Diesel_M65Jacket_Swirly",
+                "DieselGear_M65Jacket_Loki2",
+                "DieselGear_M65Jacket_Loki",
+                "Diesel_M65Jacket_Prophet"
+            ]
+        },
+        {
+            "ClassName": "Diesel_M65Jacket_MultiWD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_M65Jacket_NFYellow",
+                "Diesel_M65Jacket_NFDPurple"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Medic_Jacket",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Medic_Jacket_Tinted",
+                "Diesel_Medic_Jacket_Olive",
+                "Diesel_Medic_Jacket_BlkRed"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Raincoat_RT",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Raincoat_Timber"
+            ]
+        },
+        {
+            "ClassName": "Diesel_SkeleHoodie",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_BloodyHoodie"
+            ]
+        },
+        {
+            "ClassName": "Diesel_MiniDressBlack",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_MiniDressBlcamo",
+                "Diesel_MiniDressPurple",
+                "Diesel_MiniDressPcamo",
+                "Diesel_MiniDressBlue",
+                "Diesel_MiniDressTeal"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TShirt_Mossy",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Pants_Swirly",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Pants_Racey",
+                "Diesel_Pants_HelloKitty"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Leggings_PinkCamo",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Leggings_BSplash",
+                "Diesel_Leggings_Black",
+                "Diesel_Leggings_DMint",
+                "Diesel_Leggings_GMint",
+                "Diesel_Leggings_Pink",
+                "Diesel_Leggings_Punky",
+                "Diesel_Leggings_Punky2"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Pants_DTec3",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GorkaPants_MultiWD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_NFYellow",
+                "Diesel_GorkaPants_NFDPurple",
+                "Diesel_GorkaPants_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GorkaPants_Omega",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_DGSkin",
+                "Diesel_GorkaPants_TakiCamo",
+                "Diesel_GorkaPants_RTBlueCamo",
+                "Diesel_GorkaPants_TD",
+                "Diesel_GorkaPants_ORTCamo"
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_PinkRTCamo",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_DTec",
+                "Diesel_GorkaPants_DTec2",
+                "Diesel_GorkaPants_Mossy",
+                "Diesel_GorkaPants_LMossy",
+                "Diesel_GorkaPants_DMossy"
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_Lark",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_FieldWolff",
+                "Diesel_GorkaPants_TimberWolff",
+                "Diesel_GorkaPants_LTimberWolff",
+                "Diesel_GorkaPants_Blue"
+                
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_Purple",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_OrGreen",
+                "Diesel_GorkaPants_DrkGreen",
+                "Diesel_GorkaPants_NeoGreen",
+                "Diesel_GorkaPants_DrkGrey"
+                
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_Fall",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_NeoBlGr",
+                "Diesel_GorkaPants_Snow",
+                "Diesel_GorkaPants_BlkCamo",
+                "Diesel_GorkaPants_BlkRedCamo",
+                "Diesel_GorkaPants_BudTech"
+                
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_GRTech",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_GTech",
+                "Diesel_GorkaPants_JTech",
+                "Diesel_GorkaPants_PCamo",
+                "Diesel_GorkaPants_PurPatch",
+                "Diesel_GorkaPants_LarkCamo"
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_ScotMil",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_RTCamo",
+                "Diesel_GorkaPants_KryptecBlue",
+                "Diesel_GorkaPants_RTBlue",
+                "Diesel_GorkaPants_GS2",
+                "Diesel_GorkaPants_PRbow"
+            ]
+        },
+        {
+            "Classname": "Diesel_GorkaPants_DskeleSkin",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GorkaPants_DtakiSkin",
+                "Diesel_GorkaPants_DviperSkin",
+                "Diesel_GorkaPants_BlueiceSkin",
+                "Diesel_GorkaPants_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HunterPants_Swampy",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_HunterPants_LSwampy",
+                "Diesel_HunterPants_WinPurp"
+            ]
+        },
+        {
+            "ClassName": "Workout_Pants_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_FirePants_Realtree",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Medic_Pants",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Medic_Pants_Tinted",
+                "Diesel_Medic_Pants_Olive",
+                "Diesel_Medic_Pants_BlkRed"
+            ]
+        }
+    ]
+}

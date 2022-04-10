@@ -1,0 +1,142 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Rifles",
+    "Icon": "Gun",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "Diesel_Scout",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_Scout_Chernarus",
+          "Diesel_Scout_Livonia"
+        ]
+      },
+      {
+        "ClassName": "Diesel_Dragunov_Hunter",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_Dragunov_Gold"
+        ]
+      },
+      {
+        "ClassName": "Diesel_Ruger1022",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_Ruger1022_KryptecSnow"
+        ]
+      },
+      {
+        "ClassName": "Diesel_AKH",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_AKH_Camo",
+          "Diesel_AKH_BlkRed",
+          "Diesel_AKH_BluGn",
+          "Diesel_AKH_PurGn",
+          "Diesel_AKH_RedPurB",
+          "Diesel_AKH_YPur"
+        ]
+      },
+      {
+        "ClassName": "Diesel_AKH",
+        "MaxPriceThreshold": 120000,
+        "MinPriceThreshold": 60000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_Dragunov",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_Dragunov_Wood",
+          "Diesel_Dragunov_Wood_Lgreen",
+          "Diesel_Dragunov_Wood_Purple",
+          "Diesel_Dragunov_Wood_Red",
+          "Diesel_Dragunov_Wood_Wthrd",
+          "Diesel_Dragunov_Wood_Yellow"
+        ]
+      },
+      {
+        "ClassName": "Diesel_BearBlaze",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_BearBlaze_Mossy",
+          "Diesel_BearBlaze_PRbow"
+        ]
+      },
+      {
+        "ClassName": "Diesel_WIN70SG_Black",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_WIN70SG_Snow",
+          "Diesel_WIN70SG_Snow2",
+          "Diesel_WIN70SG_Ghillie",
+          "Diesel_WIN70SG_Mahogony",
+          "Diesel_WIN70SG_Green",
+          "Diesel_WIN70SG_Camo"
+        ]
+      },
+      {
+        "ClassName": "Diesel_M4",
+        "MaxPriceThreshold": 12000,
+        "MinPriceThreshold": 6000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Diesel_M4_DeFault",
+          "Diesel_M4_Toxic"
+        ]
+      }
+    ]
+  }

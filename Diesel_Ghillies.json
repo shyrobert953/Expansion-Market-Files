@@ -1,0 +1,327 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Ghillies",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_GhillieAtt_Taki",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieAtt_Taki2",
+                "Diesel_GhillieAtt_Taki3",
+                "Diesel_GhillieAtt_Taki4",
+                "Diesel_GhillieAtt_BlueTaki",
+                "Diesel_GhillieAtt_PinkTaki"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghillie_PRbow2",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghillie_PRbow3",
+                "Diesel_Ghillie_PRbow4",
+                "Diesel_Ghillie_PRbow5"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieAtt_USA",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieAtt_USA1",
+                "Diesel_GhillieAtt_USA2",
+                "Diesel_GhillieAtt_USA3"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieAtt_Mossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieAtt_LMossy"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieAtt_Rainbow",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieAtt_Rainbow2"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieAtt_Blueice",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GhillieAtt_DPRbow",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieAtt_PRbow",
+                "Diesel_GhillieAtt_YRbow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieAtt_Snow",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieAtt_Snow2",
+                "Diesel_GhillieAtt_Snow3",
+                "Diesel_GhillieAtt_Snow4",
+                "Diesel_GhillieAtt_Snow4",
+                "Diesel_GhillieAtt_Snow5",
+                "Diesel_GhillieAtt_Snow6"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieHood_Peddles",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GhillieHood_Taki",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieHood_Taki2",
+                "Diesel_GhillieHood_Taki3",
+                "Diesel_GhillieHood_Taki4",
+                "Diesel_GhillieHood_BlueTaki",
+                "Diesel_GhillieHood_PinkTaki"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_PRbow2",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghilliehood_PRbow3",
+                "Diesel_Ghilliehood_PRbow4",
+                "Diesel_Ghilliehood_PRbow5"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieHood_Mossy",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieHood_LMossy    ",
+                "Diesel_GhillieHood_DMossy    ",
+                "Diesel_GhillieHood_DMossy2   ",
+                "Diesel_GhillieHood_DMossy3   ",
+                "Diesel_GhillieHood_DMossy4   "
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_Blueice",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_DPRbow",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghilliehood_PRbow",
+                "Diesel_Ghilliehood_YRbow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieHood_BlkPurple",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieHood_BlkRed",
+                "Diesel_GhillieHood_BlkBlue",
+                "Diesel_GhillieHood_BlkGrey",
+                "Diesel_GhillieHood_Blkwht",
+                "Diesel_Ghilliehood_BlkDGreen",
+                "Diesel_Ghilliehood_BlkGreen",
+                "Diesel_Ghilliehood_BlkLGreen",
+                "Diesel_Ghilliehood_BlkLGreen2"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GhillieHood_YellowOR",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GhillieHood_Snow",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GhillieHood_Snow2",
+                "Diesel_GhillieHood_Snow3",
+                "Diesel_GhillieHood_Snow4",
+                "Diesel_GhillieHood_Snow5",
+                "Diesel_GhillieHood_Snow6"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_Rainbow",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghilliehood_Rainbow2"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_Matrix",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_OhBoy",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghilliehood_OhBoy2",
+                "Diesel_Ghilliehood_OhBoy3",
+                "Diesel_Ghilliehood_OhBoy4",
+                "Diesel_Ghilliehood_OhBoy5"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_Rustoxic",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghilliehood_Rustoxic2",
+                "Diesel_Ghilliehood_Rustoxic3"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Ghilliehood_USA",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Ghilliehood_USA1",
+                "Diesel_Ghilliehood_USA2",
+                "Diesel_Ghilliehood_USA3"
+            ]
+        }
+    ]
+}

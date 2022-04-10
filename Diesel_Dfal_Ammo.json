@@ -1,0 +1,108 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Ammo",
+    "Icon": "Gun Bullets",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100,
+    "Items": [
+      {
+        "ClassName": "Diesel_AmmoSpeedBox_338APBear120",
+        "MaxPriceThreshold": 1200,
+        "MinPriceThreshold": 1200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_AmmoBox_338AP",
+        "MaxPriceThreshold": 200,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_AmmoBox_338APTracer",
+        "MaxPriceThreshold": 200,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_Ammo_338AP",
+        "MaxPriceThreshold": 10,
+        "MinPriceThreshold": 10,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_Ammo_338APTracer",
+        "MaxPriceThreshold": 10,
+        "MinPriceThreshold": 10,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_AmmoBox_338APBear",
+        "MaxPriceThreshold": 200,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_AmmoBox_338APBearTracer",
+        "MaxPriceThreshold": 200,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_Ammo_338APBear",
+        "MaxPriceThreshold": 10,
+        "MinPriceThreshold": 10,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Diesel_Ammo_338APBearTracer",
+        "MaxPriceThreshold": 10,
+        "MinPriceThreshold": 10,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 100,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+  }

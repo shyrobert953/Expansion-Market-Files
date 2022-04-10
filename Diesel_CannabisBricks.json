@@ -1,0 +1,75 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Diesel Cannabis Bricks",
+  "Icon": "Herbal Medicine",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 0,
+  "Items": [
+    {
+      "ClassName": "Diesel_Cannabis_SourDieselBrick",
+      "MaxPriceThreshold": 32000,
+      "MinPriceThreshold": 32000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_Cannabis_BlueBerryBrick",
+      "MaxPriceThreshold": 48000,
+      "MinPriceThreshold": 48000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_Cannabis_PurpleHazeBrick",
+      "MaxPriceThreshold": 64000,
+      "MinPriceThreshold": 64000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_Cannabis_ChernobylBrick",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 80000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_Cannabis_SasquatchBrick",
+      "MaxPriceThreshold": 96000,
+      "MinPriceThreshold": 96000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_Cannabis_PurpleMonsterBrick",
+      "MaxPriceThreshold": 112000,
+      "MinPriceThreshold": 112000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

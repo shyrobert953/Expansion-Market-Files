@@ -1,0 +1,22 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Sidearm Attachments",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_PistolSuppressor",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_PistolSuppressor_Snow"
+            ]
+        }
+    ]
+}

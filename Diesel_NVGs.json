@@ -1,0 +1,360 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel NVGs",
+    "Icon": "Moon",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_NVGoggles_Omega",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVG_BRWCamo",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVG_CauperHed",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_Brownyz",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_DGSkin",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_TakiCamo",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_RTBlueCamo",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_Yalson",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_Peyton",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_Swirly",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_HelloKitty",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_TD",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_ORTCamo",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_PinkRTCamo",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_Camo",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_Snow",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_PRbow",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_LMossy",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVG_Toxic",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_DskeleSkin",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_DtakiSkin",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_DviperSkin",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_BlueiceSkin",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_SeamossSkin",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_MultiWD",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_NFYellow",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NVGoggles_NFDPurple",
+            "MaxPriceThreshold": 2250,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        }
+    ]
+}

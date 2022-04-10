@@ -1,0 +1,108 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Diesel Teddies",
+  "Icon": "Bear",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 50,
+  "Items": [
+    {
+      "ClassName": "Diesel_BearSkele",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_SkeleBearBlue",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_SkeleBearOrange",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_SkeleBearPurple",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_SkeleBearRed",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_PatchworkBear",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_PumpkinBear",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_CheetahBear",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_BloodyBear",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": 100,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 0,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

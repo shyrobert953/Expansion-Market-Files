@@ -1,0 +1,195 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Tools",
+    "Icon": "Hammer",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_Raid_SledgeHammer",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Raid_Hacksaw",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Raid_Hatchet",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 5,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Pickaxe",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_SledgeHammer",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 15,
+            "MinStockThreshold": 15,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_KitchenKnife",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_KitchenKnife_Ice"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HuntingKnife",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Shovel",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Shovel_Ice"
+            ]
+        },
+        {
+            "ClassName": "Diesel_FarmingHoe",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_FirefighterAxe_Green",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_FirefighterAxe_Snow",
+                "Diesel_FirefighterAxe_LMossy"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Hatchet",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_RetroKnife",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Cleaver",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_PipeWrenchSlice",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_PipeWrenchAxe",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Machete",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 50,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Machete_wood",
+                "Diesel_Machete_Black"
+            ]
+        }
+    ]
+}

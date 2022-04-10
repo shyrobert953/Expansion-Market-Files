@@ -1,0 +1,52 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Masks",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_MedicMask_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_MedicMask_PRbow2",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_MedicMask_PRbow2a",
+                "Diesel_MedicMask_PRbow3",
+                "Diesel_MedicMask_PRbow4",
+                "Diesel_MedicMask_PRbow5"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Balaclava_TimberWolf",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Balaclava_MossyRobo",
+                "Diesel_Balaclava3Holes_MericaSkull",
+                "Diesel_Balaclava3Holes_VikingBeard",
+                "Diesel_Balaclava3Holes_Zipper"
+            ]
+        }
+    ]
+}

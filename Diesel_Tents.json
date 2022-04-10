@@ -1,0 +1,41 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Tents",
+    "Icon": "Tent",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 50.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_MediumTent_Mossy",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_MediumTent_Mossy2",
+                "Diesel_MediumTent_Grassy",
+                "Diesel_MediumTent_Grassy2",
+                "Diesel_MediumTent_Black",
+                "Diesel_MediumTent_BlackG",
+                "Diesel_MediumTent_GrassyPlacing",
+                "Diesel_MediumTent_Leather"
+            ]
+        },
+        {
+            "ClassName": "Diesel_PartyTent_Black",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_PartyTent_PRbow"
+            ]
+        }
+    ]
+}

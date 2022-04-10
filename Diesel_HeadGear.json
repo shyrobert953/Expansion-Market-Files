@@ -1,0 +1,304 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Headgear",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_Mich2991_MultiWD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Mich2001_NFYellow",
+                "Diesel_Mich2001_NFDPurple",
+                "Diesel_Mich2001_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Mich2001_Omega",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Mich2001_FireEric",
+                "Diesel_Mich2001_Visa",
+                "Diesel_Mich2001_CauperHed",
+                "Diesel_Mich2001_Zed"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Mich2001_FireDog",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Mich2001_Brownyz",
+                "Diesel_Mich2001_Peddles",
+                "Diesel_Mich2001_DGSkin",
+                "Diesel_Mich2001_TakiCamo",
+                "Diesel_Mich2001_RTBlueCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Mich2001_MareBear2",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Mich2001_Yalson",
+                "Diesel_Mich2001_Peyton",
+                "Diesel_Mich2001_MareBear",
+                "Diesel_Mich2001_Cochran",
+                "Diesel_Mich2001_Cochran2"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Mich2001_Swirly",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Mich2001_Racey",
+                "Diesel_Mich2001_HelloKitty",
+                "Diesel_Mich2001_TD",
+                "Diesel_Mich2001_ORTCamo",
+                "Diesel_Mich2001_PinkRTCamo",
+                "Diesel_Mich2001_DTec3",
+                "Diesel_Mich2001_BlkBlue",
+                "Diesel_Mich2001Helmet",
+                "Diesel_Mich2001_Purple",
+                "Diesel_Mich2001_Timber"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Mich2001_DskeleSkin",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent" : 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments":[],
+            "Variants": [
+                "Diesel_Mich2001_DtakiSkin",
+                "Diesel_Mich2001_DviperSkin",
+                "Diesel_Mich2001_BlueiceSkin",
+                "Diesel_Mich2001_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Bandana_Omega",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Bandana_Visa",
+                "Diesel_Bandana_CauperHed",
+                "Diesel_Bandana_Zed",
+                "Diesel_Bandana_FireDog2",
+                "Diesel_Bandana_FireDog",
+                "Diesel_Bandana_Brownyz",
+                "Diesel_Bandana_Peddles",
+                "Diesel_Bandana_DGSkin",
+                "Diesel_Bandana_TakiCamo",
+                "Diesel_Bandana_RTBlueCamo",
+                "Diesel_Bandana_MareBear2",
+                "Diesel_Bandana_Yalson",
+                "Diesel_Bandana_Peyton",
+                "Diesel_Bandana_MareBear",
+                "Diesel_Bandana_Cochran2",
+                "Diesel_Bandana_Swirly",
+                "Diesel_Bandana_Racey",
+                "Diesel_Bandana_HelloKitty",
+                "Diesel_Bandana_TD",
+                "Diesel_Bandana_ORTCamo",
+                "Diesel_Bandana_PinkRTCamo",
+                "Diesel_Bandana_DTec3",
+                "Diesel_Bandana_Ghillie",
+                "Diesel_Bandana_LMossy",
+                "Diesel_Bandana_Green",
+                "Diesel_Bandana_DrkGreen",
+                "Diesel_Bandana_Blueice",
+                "Diesel_Bandana_PRbow",
+                "Diesel_Bandana_DPRbow",
+                "Diesel_Bandana_YRbow",
+                "Diesel_Bandana_Snow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Bandana_Dskele_Skin",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Bandana_DtakiSkin",
+                "Diesel_Bandana_BRWCamo",
+                "Diesel_Bandana_DviperSkin",
+                "Diesel_Bandana_BlueiceSkin",
+                "Diesel_Bandana_SeamossSkin",
+                "Diesel_Bandana_MultiWD",
+                "Diesel_Bandana_NFYellow",
+                "Diesel_Bandana_NFDPurple"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Cowboyhat_MultiWD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Cowboyhat_NFYellow",
+                "Diesel_Cowboyhat_NFDPurple",
+                "Diese;_Cowboyhat_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Cowboyhat_Brownyz",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Cowboyhat_DGSkin",
+                "Diesel_Cowboyhat_TakiCamo",
+                "Diesel_Cowboyhat_RTBlueCamo",
+                "Diesel_Cowboyhat_Peyton",
+                "Diesel_Cowboyhat_HelloKitty",
+                "Diesel_Cowboyhat_TD",
+                "Diesel_Cowboyhat_ORTCamo",
+                "Diesel_Cowboyhat_PinkRTCamo",
+                "Diesel_Cowboyhat_BlkBlue",
+                "Diesel_Cowboyhat",
+                "Diesel_Cowboyhat_PRbow",
+                "Diesel_Cowboyhat_Mossy"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Cowboyhat_DskeleSkin",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Cowboyhat_DtakiSkin",
+                "Diesel_Cowboyhat_DviperSkin",
+                "Diesel_Cowboyhat_BlueiceSkin",
+                "Diesel_Cowboyhat_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_BallCap_BRCamo_MAGA",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_BallCap_Camo_MAGA",
+                "Diesel_BallCap_MilCamo_MAGA",
+                "Diesel_BallCap_Mossy_MAGA",
+                "Diesel_BallCap_PinkCamo_MAGA",
+                "Diesel_BallCap_Red_MAGA"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Beaniehat_Medic",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Beaniehat_Black"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Booniehat",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_Firehelmet",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_WarriorHelmet_DMossy",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_WarriorHelmet_Mossy",
+                "Diesel_WarriorHelmet_BlkRed",
+                "Diesel_WarriorHelmet_BlueIce",
+                "Diesel_WarriorHelmet_BlueTech",
+                "Diesel_WarriorHelmet_LMossy",
+                "Diesel_WarriorHelmet_PGCamo",
+                "Diesel_WarriorHelmet_PinkCamo",
+                "Diesel_WarriorHelmet_PRbow",
+                "Diesel_WarriorHelmet_PurpleTech"
+            ]
+
+        }
+    ]
+}

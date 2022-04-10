@@ -1,0 +1,393 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Rifle Attachments",
+    "Icon": "Gun",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 25.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_DFAL_Bttstck",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_Omega",
+                "Diesel_DFAL_Bttstck_Brownyz",
+                "Diesel_DFAL_Bttstck_Visa",
+                "Diesel_DFAL_Bttstck_Racey3",
+                "Diesel_DFAL_Bttstck_DGSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_MultiWD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_NFYellow",
+                "Diesel_DFAL_Bttstck_NFDPurple",
+                "Diesel_DFAL_Bttstck_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_TakiCamo",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_RTBlueCamo",
+                "Diesel_DFAL_Bttstck_Yalson",
+                "Diesel_DFAL_Bttstck_Peyton",
+                "Diesel_DFAL_Bttstck_Swirly"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_HelloKitty",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_ORTCamo",
+                "Diesel_DFAL_Bttstck_PinkRTCamo",
+                "Diesel_DFAL_Bttstck_TD",
+                "Diesel_DFAL_Bttstck_AndyRoo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_Splatter",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_MBear",
+                "Diesel_DFAL_Bttstck_AMC",
+                "Diesel_DFAL_Bttstck_Blk",
+                "Diesel_DFAL_Bttstck_BB2"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_Wht",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_Hunter",
+                "Diesel_DFAL_Bttstck_CaliBlaze2",
+                "Diesel_DFAL_Bttstck_DeeLove2",
+                "Diesel_DFAL_Bttstck_CauperHed"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_LosToxic",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_MMBP",
+                "Diesel_DFAL_Bttstck_ScotMil",
+                "Diesel_DFAL_Bttstck_BossMan",
+                "Diesel_DFAL_Bttstck_Gold"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_Shane",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_Xeries",
+                "Diesel_DFAL_Bttstck_LMossy",
+                "Diesel_DFAL_Bttstck_PRbow",
+                "Diesel_DFAL_Bttstck_Snow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_Rustoxic",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_RustoxicWolff",
+                "Diesel_DFAL_Bttstck_Toxic",
+                "Diesel_DFAL_Bttstck_ToxicWolff",
+                "Diesel_DFAL_Bttstck_BlkBlue"
+            ]
+        },
+        {
+            "ClassName": "Diesel_DFAL_Bttstck_DskeleSkin",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_DFAL_Bttstck_DtakiSkin",
+                "Diesel_DFAL_Bttstck_DviperSkin",
+                "Diesel_DFAL_Bttstck_BlueiceSkin",
+                "Diesel_DFAL_Bttstck_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Suppressor",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Suppressor_Racey2",
+                "Diesel_Suppressor_Brownyz",
+                "Diesel_Suppressor_DGSkin",
+                "Diesel_Suppressor_ORTCamo",
+                "Diesel_Suppressor_PinkRTCamo",
+                "Diesel_Suppressor_TakiCamo",
+                "Diesel_Suppressor_RTBlueCamo",
+                "Diesel_Suppressor_Hunter",
+                "Diesel_Suppressor_MMBP",
+                "Diesel_Suppressor_TD",
+                "Diesel_Suppressor_ScotMil",
+                "Diesel_Suppressor_Bearbaa",
+                "Diesel_Suppressor_Bobstone",
+                "Diesel_Suppressor_Camo",
+                "Diesel_Suppressor_DeFault",
+                "Diesel_Suppressor_Toxic",
+                "Diesel_Suppressor_Snow",
+                "Diesel_Suppressor_BlkBlue",
+                "Diesel_Suppressor_PRbow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Suppressor_DskeleSkin",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Suppressor_DtakiSkin",
+                "Diesel_Suppressor_DviperSkin",
+                "Diesel_Suppressor_BlueiceSkin",
+                "Diesel_Suppressor_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_Suppressor_MultiWD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Suppressor_NFYellow",
+                "Diesel_Suppressor_NFDPurple",
+                "Diesel_Suppressor_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HuntingOptic",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_HuntingOptic_Omega",
+                "Diesel_HuntingOptic_Racey2",
+                "Diesel_HuntingOptic_Brownyz",
+                "Diesel_HuntingOptic_DGSkin",
+                "Diesel_HuntingOptic_TakiCamo",
+                "Diesel_HuntingOptic_RTBlueCamo",
+                "Diesel_HuntingOptic_Yalson",
+                "Diesel_HuntingOptic_Peyton",
+                "Diesel_HuntingOptic_Omega",
+                "Diesel_HuntingOptic_Swirly",
+                "Diesel_HuntingOptic_TD",
+                "Diesel_HuntingOptic_HelloKitty",
+                "Diesel_HuntingOptic_ORTCamo",
+                "Diesel_HuntingOptic_PinkRTCamo",
+                "Diesel_HuntingOptic_AMC",
+                "Diesel_HuntingOptic_Hunter",
+                "Diesel_HuntingOptic_Toxic",
+                "Diesel_HuntingOptic_Gold",
+                "Diesel_HuntingOptic_CauperHed",
+                "Diesel_HuntingOptic_CaliBlaze2",
+                "Diesel_HuntingOptic_DeeLove2",
+                "Diesel_HuntingOptic_MMBP",
+                "Diesel_HuntingOptic_Bearbaa",
+                "Diesel_HuntingOptic_ScotMil",
+                "Diesel_HuntingOptic_Bobstone",
+                "Diesel_HuntingOptic_BlkBlue",
+                "Diesel_HuntingOptic_Mossy",
+                "Diesel_HuntingOptic_Snow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HuntingOptic_DskeleSkin",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_HuntingOptic_DtakiSkin",
+                "Diesel_HuntingOptic_DviperSkin",
+                "Diesel_HuntingOptic_BlueiceSkin",
+                "Diesel_HuntingOptic_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HuntingOptic_MultiWD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_HuntingOptic_NFYellow",
+                "Diesel_HuntingOptic_NFDPurple",
+                "Diesel_HuntingOptic_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_NVHuntingOptic",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DCOGOptic",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_DCOGNVOptic",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_M4_Stock",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_M4_Stock2_DeFault",
+                "Diesel_M4_Stock2_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_M4_Handle",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_M4_Handle_DeFault",
+                "Diesel_M4_Handle_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_M4_HG",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_M4_HG_Toxic",
+                "Diesel_M4_HG_DeFault"
+            ]
+        },
+        {
+            "ClassName": "Diesel_AK_Suppressor",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_SuppressorAK_Snow",
+                "Diesel_SuppressorAK_Camo",
+                "Diesel_SuppressorAK_CamoG",
+                "Diesel_SuppressorAK_Hunter"
+            ]
+        }
+    ]
+}

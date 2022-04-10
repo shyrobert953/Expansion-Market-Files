@@ -1,0 +1,64 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Containers",
+    "Icon": "Base",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_SeaChest",
+            "MaxPriceThreshold": 4500,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GearCase",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GearCase_LMossy",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GearCase_Mossy",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GearCase_PRbow",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 10,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

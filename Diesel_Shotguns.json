@@ -1,0 +1,23 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Shotguns",
+    "Icon": "Gun",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_Saiga",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_Saiga_Gold",
+                "Diesel_Saiga_Snow"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Diesel Sidearms",
+  "Icon": "Gun",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "Items": [
+    {
+      "ClassName": "Diesel_AssBlasterColt1911",
+      "MaxPriceThreshold": 15000,
+      "MinPriceThreshold": 15000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_AssBlasterEngraved1911",
+      "MaxPriceThreshold": 15500,
+      "MinPriceThreshold": 15500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Diesel_Colt1911_Gold",
+      "MaxPriceThreshold": 12500,
+      "MinPriceThreshold": 12500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_Colt1911_Snow"
+      ]
+    },
+    {
+      "ClassName": "Diesel_WOLFFColt1911",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_WOLFFEngraved1911"
+      ]
+    },
+    {
+      "ClassName": "Diesel_BEARColt1911",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 100,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Diesel_BEAREngraved1911"
+      ]
+    }
+  ]
+}

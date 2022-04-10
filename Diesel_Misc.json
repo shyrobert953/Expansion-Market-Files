@@ -1,0 +1,176 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Holsters and Pouches",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_GearBelt",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_BeltPouch",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_NylonKnifeSheath",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_VestHolster",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_VestHolster_Omega",
+                "Diesel_VestHolster_FireEric",
+                "Diesel_VestHolster_DGSkin",
+                "Diesel_VestHolster_TakiCamo",
+                "Diesel_VestHolster_RTBlueCamo",
+                "Diesel_VestHolster_HelloKitty",
+                "Diesel_VestHolster_TD",
+                "Diesel_VestHolster_ORTCamo",
+                "Diesel_VestHolster_PinkRTCamo",
+                "Diesel_VestHolster_DTec3",
+                "Diesel_VestHolster_LMossy ",
+                "Diesel_VestHolster_Blueice",
+                "Diesel_VestHolster_DPRbow",
+                "Diesel_VestHolster_PRbow",
+                "Diesel_VestHolster_YRbow",
+                "Diesel_VestHolster_BlkGrey",
+                "Diesel_VestHolster_Snow",
+                "Diesel_VestHolster_Lark"
+            ]
+        },
+        {
+            "ClassName": "Diesel_VestHolster_DskeleSkin",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_VestHolster_DtakiSkin",
+                "Diesel_VestHolster_DviperSkin",
+                "Diesel_VestHolster_BlueiceSkin",
+                "Diesel_VestHolster_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_VestHolster_MultiWD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_VestHolster_NFYellow",
+                "Diesel_VestHolster_NFDPurple",
+                "Diesel_VestHolster_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_VestPouches_TD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_VestPouches_FireEric",
+                "Diesel_VestPouches_Omega",
+                "Diesel_VestPouches_Visa",
+                "Diesel_VestPouches_DGSkin",
+                "Diesel_VestPouches_TakiCamo",
+                "Diesel_VestPouches_RTBlueCamo",
+                "Diesel_VestPouches_HelloKitty",
+                "Diesel_VestPouches_ORTCamo",
+                "Diesel_VestPouches_PinkRTCamo",
+                "Diesel_VestPouches_DTec3"
+            ]
+        },
+        {
+            "ClassName": "Diesel_VestPouches_MultiWD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_VestPouches_NFYellow",
+                "Diesel_VestPouches_NFDPurple",
+                "Diesel_VestPouches_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_AttackVestPouches",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_AttackVestPouches_LMossy",
+                "Diesel_AttackVestPouches_Blueice",
+                "Diesel_AttackVestPouches_DPRbow",
+                "Diesel_AttackVestPouches_PRbow",
+                "Diesel_AttackVestPouches_YRbow",
+                "Diesel_AttackVestPouches_BlkGrey",
+                "Diesel_AttackVestPouches_Snow",
+                "Diesel_AttackVestPouches_Lark"
+            ]
+        },
+        {
+            "ClassName": "Diesel_VestPouches_DskeleSkin",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_VestPouches_DtakiSkin",
+                "Diesel_VestPouches_DviperSkin",
+                "Diesel_VestPouches_BlueciceSkin",
+                "Diesel_VestPouches_SeamossSkin"
+            ]
+        }
+    ]
+}

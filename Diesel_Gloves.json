@@ -1,0 +1,152 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Gloves",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_TacticalGloves_BRWCamo",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_Green",
+                "Diesel_TacticalGloves_BlkGrey",
+                "Diesel_TacticalGloves_Mossy",
+                "Diesel_TacticalGloves_LMossy"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TacticalGloves_PRbow",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_Blueice",
+                "Diesel_TacticalGloves_YRbow",
+                "Diesel_TacticalGloves_DPRbow",
+                "Diesel_TacticalGloves_Snow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TacticalGloves_BlkCamo",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_BlkRedCamo",
+                "Diesel_TacticalGloves_DTec3",
+                "Diesel_TacticalGloves_TD",
+                "Diesel_TacticalGloves_ORTCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TacticalGloves_PinkRTCamo",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_TakiCamo",
+                "Diesel_TacticalGloves_RTBlueCamo",
+                "Diesel_TacticalGloves_DskeleSkin",
+                "Diesel_TacticalGloves_DtakiSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TacticalGloves_DviperSkin",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_BlueiceSkin",
+                "Diesel_TacticalGloves_SeamossSkin",
+                "Diesel_TacticalGloves_NFBlue",
+                "Diesel_TacticalGloves_NFGreen"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TacticalGloves_NFOrange",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_NFPink",
+                "Diesel_TacticalGloves_NFRed",
+                "Diesel_TacticalGloves_NFPurple",
+                "Diesel_TacticalGloves_LosToxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TacticalGloves_MultiWD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TacticalGloves_NFYellow",
+                "Diesel_TacticalGloves_NFDPurple"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HOTGloves",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_HOTGloves2",
+                "Diesel_HOTGloves_Snow",
+                "Diesel_HOTGloves_BlkBlue",
+                "Diesel_HOTGloves_PRBow"
+            ]
+        },
+        {
+            "ClassName": "Diesel_HOTGloves_BlackCamo",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_HOTGloves_BlkGrey",
+                "Diesel_HOTGloves_BlueIce",
+                "Diesel_HOTGloves_BlkRedCamo",
+                "Diesel_HOTGloves_LMossy",
+                "Diesel_HOTGloves_Mossy"
+            ]
+        }
+    ]
+}

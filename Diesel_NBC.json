@@ -1,0 +1,139 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel NBC Gear",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_GasMask_Filter",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Diesel_GasMask",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GasMask_ToxicCamo",
+                "Diesel_GasMask_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_AbGasMask",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_AbGasMask_Mossy",
+                "Diesel_AbGasMask_ToxicMossy"
+            ]
+        },
+        {
+            "ClassName": "Diesel_GP5GasMask",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_GP5GasMask_ToxicMossy",
+                "Diesel_GP5GasMask_Mossy",
+                "Diesel_GP5GasMask_Toxic",
+                "Diesel_GP5GasMask_ToxicCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_NBCHood_ToxicMossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_NBCHood_Mossy",
+                "Diesel_NBCHood_ToxicCamo",
+                "Diesel_NBCHood_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_NBCPants_ToxicMossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_NBCPants_Mossy",
+                "Diesel_NBCPants_ToxicCamo",
+                "Diesel_NBCPants_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_NBCBoots_ToxicMossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_NBCBoots_Mossy",
+                "Diesel_NBCBoots_ToxicCamo",
+                "Diesel_NBCBoots_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_NBCGloves_ToxicMossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_NBCGloves_Mossy",
+                "Diesel_NBCGloves_ToxicCamo",
+                "Diesel_NBCGloves_Toxic"
+            ]
+        },
+        {
+            "ClassName": "Diesel_NBCJacket_Mossy",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_NBCJacket_ToxicMossy",
+                "Diesel_NBCJacket_ToxicCamo",
+                "Diesel_NBCJacket_Toxic"
+            ]
+        }
+    ]
+}

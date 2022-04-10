@@ -1,0 +1,151 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Vests",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_BallisticVest_Omega",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_BallisticVest_FireEric",
+                "Diesel_BallisticVest_DGSkin",
+                "Diesel_BallisticVest_TakiCamo",
+                "Diesel_BallisticVest_RTBlueCamo",
+                "Diesel_BallisticVest_Swirly",
+                "Diesel_BallisticVest_Racey",
+                "Diesel_BallisticVest_Prophet",
+                "Diesel_BallisticVest_HelloKitty",
+                "Diesel_BallisticVest_TD",
+                "Diesel_BallisticVest_ORTCamo",
+                "Diesel_BallisticVest_PinkRTCamo",
+                "Diesel_BallisticVest_DTec3",
+                "Diesel_BallisticVest",
+                "Diesel_BallisticVest_LMossy",
+                "Diesel_BallisticVest_Blueice",
+                "Diesel_BallisticVest_DPRbow",
+                "Diesel_BallisticVest_PRbow",
+                "Diesel_BallisticVest_YRbow",
+                "Diesel_BallisticVest_BlkGrey",
+                "Diesel_BallisticVest_Snow",
+                "Diesel_BallisticVest_Lark"
+            ]
+        },
+        {
+            "ClassName": "Diesel_BallisticVest_DskeleSkin",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_BallisticVest_DtakiSkin",
+                "Diesel_BallisticVest_DviperSkin",
+                "Diesel_BallisticVest_BlueiceSkin",
+                "Diesel_BallisticVest_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_BallisticVest_MultiWD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_BallisticVest_NFYellow",
+                "Diesel_BallisticVest_NFDPurple",
+                "Diesel_BallisticVest_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_AttackVest_DGSkin",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_AttackVest_TakiCamo",
+                "Diesel_AttackVest_RTBlueCamo",
+                "Diesel_AttackVest_ORTCamo",
+                "Diesel_AttackVest_TD",
+                "Diesel_AttackVest_DTec3",
+                "Diesel_AttackVest_RealTree",
+                "Diesel_AttackVest_Camo2",
+                "Diesel_AttackVest_Mossy",
+                "Diesel_AttackVest_LMossy",
+                "Diesel_AttackVest_LMossy2",
+                "Diesel_AttackVest_Timber",
+                "Diesel_AttackVest_Toxic",
+                "Diesel_AttackVest_Timber2",
+                "Diesel_AttackVest_Blueice",
+                "Diesel_AttackVest_BlkCamoMedic",
+                "Diesel_AttackVest_Blueice2",
+                "Diesel_AttackVest_PRbow",
+                "Diesel_AttackVest_PRbow2",
+                "Diesel_AttackVest_YRbow",
+                "Diesel_AttackVest_Medic",
+                "Diesel_AttackVest_BlkGrey",
+                "Diesel_AttackVest_BlkGrey2",
+                "Diesel_AttackVest_Snow",
+                "Diesel_AttackVest_SVSnowCamo",
+                "Diesel_AttackVest_RTBlue",
+                "Diesel_AttackVest_RTSnowCamo",
+                "Diesel_AttackVest_KryptecBlue",
+                "Diesel_AttackVest_KryptecSnow3",
+                "Diesel_AttackVest_BudTech",
+                "Diesel_AttackVest_PCamo",
+                "Diesel_AttackVest_GRTech",
+                "Diesel_AttackVest_GTech",
+                "Diesel_AttackVest_JTech",
+                "Diesel_AttackVest_LarkCamo",
+                "Diesel_AttackVest_ScotMil"
+            ]
+        },
+        {
+            "ClassName": "Diesel_AttackVest_DSkeleSkin",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_AttackVest_DtakiSkin",
+                "Diesel_AttackVest_DviperSkin",
+                "Diesel_AttackVest_BlueiceSkin",
+                "Diesel_AttackVest_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_AttackVest_MultiWD",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_AttackVest_NFYellow",
+                "Diesel_AttackVest_NFDPurple",
+                "Diesel_AttackVest_BRWCamo"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Smoke Grenades",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "AP_Smoke_RAINBOW",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "AP_Smoke_MERICA",
+                "AP_Smoke_CANADA",
+                "AP_Smoke_BRUIN",
+                "AP_Smoke_WSS",
+                "AP_Smoke_PINK",
+                "AP_Smoke_BLUE",
+                "AP_Smoke_ORANGE"
+            ]
+        }
+    ]
+}

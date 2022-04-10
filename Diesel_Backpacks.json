@@ -1,0 +1,131 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Diesel Backpacks",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Diesel_TortillaBag_Omega",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TortillaBag_FireDog",
+                "Diesel_TortillaBag_FireEric",
+                "Diesel_TortillaBag_Visa",
+                "Diesel_TortillaBag_CauperHed",
+                "Diesel_TortillaBag_Zed",
+                "Diesel_TortillaBag_FireDog2",
+                "Diesel_TortillaBag_Peddles",
+                "Diesel_TortillaBag_DGSkin",
+                "Diesel_TortillaBag_TakiCamo",
+                "Diesel_TortillaBag_RTBlueCamo",
+                "Diesel_TortillaBag_Yalson",
+                "Diesel_TortillaBag_Peyton",
+                "Diesel_TortillaBag_Cochran",
+                "Diesel_TortillaBag_Cochran2",
+                "Diesel_TortillaBag_Swirly",
+                "Diesel_TortillaBag_Racey",
+                "Diesel_TortillaBag_HelloKitty",
+                "Diesel_TortillaBag_TD",
+                "Diesel_TortillaBag_ORTCamo",
+                "Diesel_TortillaBag_PinkRTCamo",
+                "Diesel_TortillaBag_DTec3",
+                "Diesel_TortillaBag_Purp",
+                "Diesel_TortillaBag_PRbow",
+                "Diesel_TortillaBag_Rustoxic",
+                "Diesel_TortillaBag_Toxic",
+                "Diesel_TortillaBag_PurpFade",
+                "Diesel_TortillaBag_RTFaded",
+                "Diesel_TortillaBag_RTFadedP",
+                "Diesel_TortillaBag_Green",
+                "Diesel_TortillaBag_Blue",
+                "Diesel_TortillaBag_DDBlue"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TortillaBag_DskeleSkin",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TortillaBag_DtakiSkin",
+                "Diesel_TortillaBag_DviperSkin",
+                "Diesel_TortillaBag_BlueiceSkin",
+                "Diesel_TortillaBag_SeamossSkin"
+            ]
+        },
+        {
+            "ClassName": "Diesel_TortillaBag_MultiWD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_TortillaBag_NFYellow",
+                "Diesel_TortillaBag_NFDPurple",
+                "Diesel_TortillaBag_BRWCamo"
+            ]
+        },
+        {
+            "ClassName": "Diesel_MntHiking_Black",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_MntHiking_BlkBlue",
+                "Diesel_MntHiking_BlkBlueice",
+                "Diesel_MntHiking_BlkCamo",
+                "Diesel_MntHiking_BlkGrey",
+                "Diesel_MntHiking_BlkLMossy",
+                "Diesel_MntHiking_BlkMedic",
+                "Diesel_MntHiking_Blueice",
+                "Diesel_MntHiking_BlkPRbow",
+                "Diesel_MntHiking_FieldWolff",
+                "Diesel_MntHiking_DPRbow",
+                "Diesel_MntHiking_KryptecSnow",
+                "Diesel_MntHiking_KryptecSnow2",
+                "Diesel_MntHiking_LMossy",
+                "Diesel_MntHiking_Mossy",
+                "Diesel_MntHiking_PRbow",
+                "Diesel_MntHiking_Realtree",
+                "Diesel_MntHiking_Snow",
+                "Diesel_MntHiking_YRbow",
+                "Diesel_MntHiking_Red",
+                "Diesel_MntHiking_Blue",
+                "Diesel_MntHiking_Orange",
+                "Diesel_MntHiking_Green"
+            ]
+        },
+        {
+            "ClassName": "Diesel_WpGearBag_Camo",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 100,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Diesel_WpGearBag_LMossy",
+                "Diesel_WpGearBag_PRbow"
+            ]
+        }
+    ]
+}
